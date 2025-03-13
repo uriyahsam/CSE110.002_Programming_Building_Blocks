@@ -70,7 +70,8 @@ Each project has a milestone phase and a final version:
 2. **Navigate to the desired week or project folder.**
 3. **Run the Python scripts** (.py files) **using:**
 
-python filename.py
+   ```bash
+   python filename.py
 
 4. **Modify or experiment** with the code as needed.
 
