@@ -1,0 +1,12 @@
+At temperature 8.0F, and wind speed 5 mph, the wind chill is: -1.11F
+At temperature 8.0F, and wind speed 10 mph, the wind chill is: -6.02F
+At temperature 8.0F, and wind speed 15 mph, the wind chill is: -9.15F
+At temperature 8.0F, and wind speed 20 mph, the wind chill is: -11.50F
+At temperature 8.0F, and wind speed 25 mph, the wind chill is: -13.40F
+At temperature 8.0F, and wind speed 30 mph, the wind chill is: -15.00F
+At temperature 8.0F, and wind speed 35 mph, the wind chill is: -16.39F
+At temperature 8.0F, and wind speed 40 mph, the wind chill is: -17.62F
+At temperature 8.0F, and wind speed 45 mph, the wind chill is: -18.73F
+At temperature 8.0F, and wind speed 50 mph, the wind chill is: -19.74F
+At temperature 8.0F, and wind speed 55 mph, the wind chill is: -20.67F
+At temperature 8.0F, and wind speed 60 mph, the wind chill is: -21.53F
